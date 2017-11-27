@@ -1,7 +1,5 @@
 # monstervc
 
-## FAQ
-
 ### What is MonsterVC?
 
 MonsterVC is a version control application for managing monsters within various games.
