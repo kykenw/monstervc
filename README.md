@@ -21,19 +21,16 @@ A build is an instance of a fully equiped monster.
 ### How do I create monsters?
 
 Navigate to the dashboard and click the add button located in the bottom right.
-
 A form will popup and you can create a new monster.
 
 ### How do I create equipable items?
 
 Navigate to the inventory and click the add button located in the bottom right.
-
 A form will popup and you can create a new item.
 
 ### How do I create builds?
 
 Navigate to the dashboard and click on a monsters name.
-
 On that monster's page click the add button located in the bottom right.
 
 A form will popup and you can create a new build.
