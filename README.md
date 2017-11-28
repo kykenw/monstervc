@@ -2,7 +2,10 @@
 
 ### What is MonsterVC?
 
-MonsterVC is a version control application for managing monsters within various games.
+MonsterVC is a version control application for managing monsters within various games.</br>
+
+<img src="https://github.com/kykenw/monstervc/blob/master/makecomparisons.PNG"/>
+
 
 ### How do I get started?
 
@@ -14,24 +17,32 @@ In games where you have to equip several monsters this tool is useful for theory
 
 ### What is a build?
 
-A build is an instance of a fully equiped monster.
+A build is an instance of a fully equiped monster.</br>
+
+<img src="https://github.com/kykenw/monstervc/blob/master/build.PNG"/>
 
 ### How do I create monsters?
 
 Navigate to the dashboard and click the add button located in the bottom right.
-A form will popup and you can create a new monster.
 
-<img src="https://github.com/kykenw/monstervc/blob/master/addmonster.PNG"/>
+<img src="https://github.com/kykenw/monstervc/blob/master/addmonster.PNG"/></br>
+
+A form will popup and you can create a new monster.
 
 ### How do I create equipable items?
 
 Navigate to the inventory and click the add button located in the bottom right.
+
+<img src="https://github.com/kykenw/monstervc/blob/master/new.PNG"/></br>
+
 A form will popup and you can create a new item.
 
 ### How do I create builds?
 
 Navigate to the dashboard and click on a monsters name.
 On that monster's page click the add button located in the bottom right.
+
+<img src="https://github.com/kykenw/monstervc/blob/master/new.PNG"/></br>
 
 A form will popup and you can create a new build.
 
