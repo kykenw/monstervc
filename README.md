@@ -21,6 +21,8 @@ A build is an instance of a fully equiped monster.
 Navigate to the dashboard and click the add button located in the bottom right.
 A form will popup and you can create a new monster.
 
+<img src="https://github.com/kykenw/monstervc/blob/master/addmonster.PNG"/>
+
 ### How do I create equipable items?
 
 Navigate to the inventory and click the add button located in the bottom right.
